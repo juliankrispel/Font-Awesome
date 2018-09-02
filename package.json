@@ -16,6 +16,8 @@
     "type": "git",
     "url": "https://github.com/FortAwesome/Font-Awesome.git"
   },
+  "main": "scss/font-awesome.scss",
+  "style": "css/font-awesome.css",
   "contributors": [
     {
       "name": "Rob Madole",
